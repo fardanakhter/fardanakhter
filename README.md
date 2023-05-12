@@ -8,7 +8,7 @@ Previously, I played a key role in building 3rd party framework for event report
 
 I'm fascinated by well maintained projects, learning ways that improve app performance and user experience and also have worked on projects that have a large user-base like [Drop In Fortnite](https://apps.apple.com/us/app/drop-in-for-fortnite-app/id1357883503) and [Intermiami](https://apps.apple.com/us/app/inter-miami-cf/id1492007038).
 
-Outside of work, I'm interested in styudying state-of-the-art practices and solving tricky leetcode problems. In My spare time you can find me playing guitar 🎸 and spending time creating digital art 🖌.
+Outside of work, I'm interested in studying state-of-the-art practices and solving tricky leetcode problems. In My spare time you can find me playing guitar 🎸 and spending time creating digital art 🖌.
 
 Catch me on
 
