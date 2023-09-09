@@ -2,7 +2,7 @@
 
 I'm Fardan Akhter, a Software Engineer (iOS) from Pakistan 🇵🇰.
 
-I'm a 5+ years experienced engineer creating iOS mobile apps with command on Swift / Objective C. I have successfully published several apps to App Store in domains like fitness training, educational, sports clubs, social networking, gaming skins, crypto wallet, ride-hailing etc. Currently selling freelance services and counted in top 10% of talents with 100% job success score [@Upwork](https://github.com/upwork).
+I've been developing iOS mobile apps with command on Swift / Objective C since 2017. I have successfully published several apps to App Store in domains like fitness training, educational, sports clubs, social networking, gaming skins, crypto wallet, ride-hailing etc. Currently selling freelance services and counted in top 5% of talents with 100% job success score [@Upwork](https://github.com/upwork).
 
 Previously, I played a key role in building 3rd party framework for event reporting and analytics named as [PJDSDK](https://docs.pumpjackdataworks.com/ios) [@PumpjackDataworks](https://github.com/Tixsee).
 
